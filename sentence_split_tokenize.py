@@ -44,7 +44,7 @@ def process_csv(input_file, output_file):
         print(f"An error occurred: {e}")
 
 # Input and output files
-input_file = "smaller_news_data.csv"
+input_file = "subset_news_data.csv"
 output_file = "sentence_split_and_tokenized.csv"
 
 process_csv(input_file, output_file)
