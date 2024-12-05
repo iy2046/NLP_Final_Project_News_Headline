@@ -22,3 +22,4 @@ Make sure you have the following installed:
    ```bash
    pip install nltk pandas
    pip install spacy
+   pip install nltk pandas flair
