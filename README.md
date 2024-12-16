@@ -32,7 +32,6 @@ This project processes news articles using **spaCy** and generates headlines for
 ## Installation
 To run this project, install the required libraries:
 
-```bash
 pip install spacy pandas scikit-learn
 python -m spacy download en_core_web_md
 
