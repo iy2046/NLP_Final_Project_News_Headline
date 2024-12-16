@@ -1,4 +1,4 @@
-# Automated News Headline Generation Using Natural Language
+# Automated News Headline Generation Using Natural Language Processing
 
 ## Overview
 This project processes news articles using **spaCy** and generates headlines for each article. The generated headlines are evaluated using **cosine similarity** with the original article content. It is an end-to-end pipeline for processing, headline generation, and evaluation.
